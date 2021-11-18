@@ -22,9 +22,9 @@ Hello, I'm Mahendra Shah
 ## 👨🏾‍🔧 MY SKILL SET
 <br />
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
-
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 ### Backend
