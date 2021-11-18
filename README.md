@@ -12,7 +12,7 @@ Hello, I'm Mahendra Shah
 
 
 ## ☎️ CONTACT ME
-[![Linkedin Badge](https://img.shields.io/badge/-Mahendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahendra-shah-5a8024226/)]()
+[![Linkedin Badge](https://img.shields.io/badge/-Mahendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahendra-shah-5a8024226/)](https://www.linkedin.com/in/mahendra-shah-5a8024226/)(target"_blank")
 [![Gmail Badge](https://img.shields.io/badge/-mahendra21@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahendra21@navgurukul.org)](mailto:mahendra21@navgurukul.org)
 
 <!--[![Instagram Badge](https://img.shields.io/badge/-mkankit07-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mkankit07/)](https://www.instagram.com/mkankit07/)
