@@ -19,7 +19,9 @@ Hello, I'm Mahendra Shah
 -->
 
 <br />
+
 ## 👨🏾‍🔧 MY SKILL SET
+
 <br />
 
 ### Frontend
