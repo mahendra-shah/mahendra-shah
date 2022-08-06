@@ -1,51 +1,28 @@
-<!-- <p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=mkankit07&label=Profile%20views&color=0e75b6&style=flat" alt="mkankit07" /> </p> -->
-<h1 align="center">
-<!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
-Hello, I'm Mahendra Shah
-<!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
-</h1>
-<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70">
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-## 👨🏾‍💻 ABOUT ME
+<h1 align="center">Hi 👋, I'm Mahendra</h1>
+<h3 align="center">A passionate web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
- <p>Mahendra  is an Fresher Web Developer. have knowledge  front-end(HTML5, CSS3, React js and Javascript) to back-end(Node Js, Express Js and MongoDB).</p>
+- 🌱 I’m currently learning **React js**
+
+- 📫 How to reach me **mahendra21@navgurukul.org**
+
+- ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shah-mahendra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah-mahendra" height="30" width="40" /></a>
 
 
-## ☎️ CONTACT ME
-[![Linkedin Badge](https://img.shields.io/badge/-Mahendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahendra-shah-5a8024226/)](https://www.linkedin.com/in/mahendra-shah-5a8024226/)
-[![Gmail Badge](https://img.shields.io/badge/-mahendra21@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahendra21@navgurukul.org)](mailto:mahendra21@navgurukul.org)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<!--[![Instagram Badge](https://img.shields.io/badge/-mkankit07-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mkankit07/)](https://www.instagram.com/mkankit07/)
--->
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mahendra-shah&&theme=xcode)](https://github.com/mahendra-shah)
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendra-shah&show_icons=true&locale=en&layout=compact" alt="mahendra-shah" /></p>
 
-## 👨🏾‍🔧 MY SKILLS
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahendra-shah&show_icons=true&locale=en" alt="mahendra-shah" /></p>
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
-![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
-![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MYSQL&logoColor=336791)
-
-### API
-
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
-### Package managers
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
-### Version control system
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
-
- -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendra-shah&" alt="mahendra-shah" /></p>
