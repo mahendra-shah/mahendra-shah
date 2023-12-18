@@ -24,4 +24,4 @@ I'm a Backend Developer
 ---
 [![](https://visitcount.itsvg.in/api?id=mahendra-shah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/mahendra-shah/mahendra-shah/blob/output/github-contribution-grid-snake.svg)
