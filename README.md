@@ -21,5 +21,8 @@ I'm a Backend Developer
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/mahendra-shah/mahendra-shah/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mahendra&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
