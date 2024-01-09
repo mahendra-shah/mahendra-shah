@@ -1,5 +1,8 @@
-# 💫 About Me:
-I'm a Backend Developer
+<h3 align="center">💫 About Me: </h3>
+<p align="center">
+        <img  src="https://64.media.tumblr.com/c93f16953341ab06acd12b493659bdee/tumblr_mr68hhmVE11r5ikx8o1_400.gif" width="100">
+</p>
+<h2 align="center">I'm a Backend Developer</h2>
 
 
 ## 🌐 Socials:
@@ -20,9 +23,3 @@ I'm a Backend Developer
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/mahendra-shah/mahendra-shah/blob/output/github-contribution-grid-snake.svg)
-
----
-[![](https://visitcount.itsvg.in/api?id=mahendra&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
