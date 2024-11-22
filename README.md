@@ -1,5 +1,5 @@
+![github-header-image (3)](https://github.com/user-attachments/assets/605e5a14-7808-4fdb-912d-d993cdd8563c)
 
-![github-header-image (2)](https://github.com/user-attachments/assets/ec9cc374-b737-4eff-a32c-a7eb3bbda9ab)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Tech Stack:
 <table><tr><td valign="top" width="33%">
