@@ -27,4 +27,6 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=031a6980b0204e1a) <br/>
 
+![](./profile-3d-contrib/profile-green-animate.svg) <br/>
+
 <img src="https://profile-counter.glitch.me/{mahendra-shah}/count.svg" alt="mahendra-shah :: Visitor's Count" />
